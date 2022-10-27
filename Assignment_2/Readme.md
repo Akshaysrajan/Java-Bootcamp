@@ -52,7 +52,7 @@
 
 26. Addition Of Two Numbers
 
-1. Check the character is uppercase or lower case
-2. count the occurence of a particular digit from a number
-3. reversing a number
+1. [Check the character is uppercase or lower case](./Up_Low.java)
+2. [count the occurence of a particular digit from a number](./Occurence.java)
+3. [reversing a number](./reverse.java)
 4. calculator 
